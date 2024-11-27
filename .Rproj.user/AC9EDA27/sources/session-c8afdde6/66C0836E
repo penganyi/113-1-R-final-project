@@ -1,0 +1,24 @@
+{
+    "id": "66C0836E",
+    "path": "/cloud/project/rstudio-git-configuration.R",
+    "project_path": "rstudio-git-configuration.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1731478633191.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1731478544,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1731478544,
+    "read_only": false,
+    "read_only_alternatives": []
+}
